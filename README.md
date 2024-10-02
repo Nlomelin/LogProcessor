@@ -6,6 +6,7 @@ Gavin Bounous 48805515
 INFO count: 3347
 WARN count: 3314
 ERROR count: 3339
+Memory warnings count: 696
 Last 100 ERROR entries:
 [[2024-08-23 14:35:53]]ERROR User authentication failed
 [[2024-08-23 14:35:50]]ERROR Permission denied
@@ -107,6 +108,6 @@ Last 100 ERROR entries:
 [[2024-08-23 14:35:47]]ERROR Timeout occurred
 [[2024-08-23 14:35:22]]ERROR Database connection failed
 [[2024-08-23 14:35:20]]ERROR Timeout occurred
-Memory warnings count: 696
+
 
 Process finished with exit code 0
