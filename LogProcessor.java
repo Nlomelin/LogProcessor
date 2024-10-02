@@ -1,4 +1,14 @@
-{
+import java.net.URISyntaxException;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.Stack;
+import java.io.IOException;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.nio.file.Path;
+import java.util.List;
+
+public class LogProcessor{
 
     // Define the queue and stack
     private Queue<String> logQueue = new LinkedList<>();
